@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-ah3hfa.pulaucuan.org/sitemap.xml
